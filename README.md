@@ -1,4 +1,5 @@
 Hello, I'm 👨‍💻 Ihor Zhytnyk 👋
+💬 Open to opportunities in Senior QA Engineering, Test Automation, and QA Leadership roles!
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=300&section=header&text=Senior%20QA%20Engineer&fontSize=60&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=9%2B%20Years%20Quality%20Assurance%20Experience%20%7C%20Cross-Platform%20Testing%20Expert&descAlignY=51&descAlign=center" alt="Header">
@@ -125,7 +126,6 @@ Project of pawnbroker domain. Complex desktop product, with integration to own w
 **Fundraiser/Funding Support** | *March 2022 - Present*  
 Donations, support and fundraisers for Armed Forces of Ukraine
 
-💬 Open to opportunities in Senior QA Engineering, Test Automation, and QA Leadership roles!
 
 </div>
 <div align="center">
