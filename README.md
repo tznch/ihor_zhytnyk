@@ -1,12 +1,12 @@
-Hello, I'm 👨‍💻 Ihor Zhytnyk 👋  
-💬 Open to opportunities in Senior QA Engineering, Test Automation, and QA Leadership roles!
+Hello, I'm 👨‍💻 Ihor Zhytnyk 👋
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=300&section=header&text=Senior%20QA%20Engineer&fontSize=60&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=9%2B%20Years%20Quality%20Assurance%20Experience%20%7C%20Cross-Platform%20Testing%20Expert&descAlignY=51&descAlign=center" alt="Header">
 
 🚀 Quality Assurance Professional 🚀
 Senior QA Engineer (9+ years) → Cross-platform Testing & Automation Specialist
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F75C7E&center=true&vCenter=true&width=435&lines=Senior+QA+Engineer;Cross-platform+Expert;Test+Automation+Specialist;AI+Tools+Enthusiast;Always+Learning" alt="Typing SVG">
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F75C7E&center=true&vCenter=true&width=435&lines=Senior+QA+Engineer;Cross-platform+Expert;Test+Automation+Specialist;AI+Tools+Enthusiast;Always+Learning" alt="Typing SVG">  
+💬 Open to opportunities in Senior QA Engineering, Test Automation, and QA Leadership roles!
 </div>
 
 🎯 Current Focus: QA Excellence & AI Integration
