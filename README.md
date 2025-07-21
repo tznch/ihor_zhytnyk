@@ -1,4 +1,4 @@
-Hello, I'm 👨‍💻 Ihor Zhytnyk 👋
+Hello, I'm 👨‍💻 Ihor Zhytnyk 👋  
 💬 Open to opportunities in Senior QA Engineering, Test Automation, and QA Leadership roles!
 <div align="center">
 
@@ -130,9 +130,7 @@ Donations, support and fundraisers for Armed Forces of Ukraine
 </div>
 <div align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=100&section=footer" alt="Footer">
-  
   "Quality is not an act, it is a habit." - Aristotle
-
 ---
 
 ### 🔗 Let's Connect
