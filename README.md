@@ -129,7 +129,6 @@ Donations, support and fundraisers for Armed Forces of Ukraine
 
 </div>
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=100&section=footer" alt="Footer">
   "Quality is not an act, it is a habit." - Aristotle
 ---
 
