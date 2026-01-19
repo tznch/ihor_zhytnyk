@@ -49,6 +49,16 @@ Quality First + Innovation = Robust, Reliable Solutions
 
 ## 💼 Professional Experience
 
+### **Senior QA Engineer** at **NDA crypto project** 
+*August 2025 - Present | Remote*
+- Performed full cycle QA services within full stack dev team for 3 projects:
+- Web testing : VM rent platform, crypto POS web based terminal for merchants
+- mobile testing - android messenger app
+- requirements clarification, improvements, triage
+- API testing (Swagger/Postman/Requestly)
+- Playwright + TS automation
+- Linear task/bug managing + review designs in figma
+
 ### **Senior QA Engineer** at **Mylio** 
 *February 2024 - August 2025 | Remote*
 - Worked in leader product related to photo storage and photo organisation, within US timezone
