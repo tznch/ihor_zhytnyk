@@ -1,4 +1,4 @@
-Hello, I'm 👨‍💻 **Ihor Zhytnyk** 👋
+
 
 <div align="center">
 
@@ -7,6 +7,7 @@ Hello, I'm 👨‍💻 **Ihor Zhytnyk** 👋
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F75C7E&center=true&vCenter=true&width=480&lines=Playwright+%2B+TypeScript;Appium+%2B+Python;LLM+Eval+%28DeepEval%2C+Promptfoo%29;Cross-Platform+QA;Agentic+QA+Workflows" alt="Typing SVG">
 
 </div>
+Hello, I'm 👨‍💻 **Ihor Zhytnyk** 👋
 
 ## 🎯 Profile
 
