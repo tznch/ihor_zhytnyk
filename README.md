@@ -90,8 +90,8 @@ Comfortable owning the full QA cycle — from requirements analysis to release s
 
 Performed full-cycle QA within a full-stack dev team for 3 projects:
 
-- Web testing
-- Mobile testing — Android messenger app
+- **Web:** VM rent platform, crypto POS web-based terminal for merchants
+- **Mobile:** Android messenger app
 - Requirements clarification, improvements, triage
 - API testing (Swagger / Postman / Requestly)
 - Playwright + TypeScript automation
@@ -147,42 +147,22 @@ Pawnbroker-domain desktop product with integration to an own web portal (eBay al
 - Functional and regression testing for ongoing releases
 - Test plans, cases, reviews, and release greenlights
 
-### **Lead QA Engineer (Marketing team)** at **Skyeng**
-*November 2017 – May 2018 (7 months)*
+### Earlier experience *(2013 – 2018)*
 
-Online English learning platform; IT team of 150+ engineers, managers, and consultants.
+- **Skyeng** — *Lead QA → Junior/Middle QA, marketing team* (Feb 2017 – May 2018)  
+  Online ed-tech, 150+ IT staff. Led 3 QAs; A/B platform testing; weekly QA meetings; requirements with business units; test documentation and process optimization.
 
-- Facilitated weekly QA department meetings; negotiated requirements with business units
-- Troubleshooting and resolution of major issues; tested A/B testing platform for end customers
-- Led a team of 3 QA engineers; coordinated with company QA lead and other teams
-- Project and test documentation; optimized testing process with measurable milestones
-- Supported product managers by optimizing project management procedures
+- **CBA.pl** — *QA Engineer* (Sep 2016 – Jan 2017)  
+  Hosting QA: test cases, result analysis, Redmine/wiki, L2 support, onboarding.
 
-### **Junior / Middle QA (Marketing team)** at **Skyeng**
-*February 2017 – November 2017 (10 months)*
+- **City Information Center, Kharkiv** — *QA / Tech Support* (Mar – Sep 2016)  
+  Web testing and prototyping, MediaWiki docs, software/hardware setup for staff.
 
-### **QA Engineer** at **CBA.pl**
-*September 2016 – January 2017 (5 months)*
+- **Kharkiv National University of Radioelectronics** — *Tech Assistant* (Sep 2014 – Apr 2016)  
+  HW/SW install and troubleshooting support for faculty.
 
-- Developed and maintained test cases for hosting functionality
-- In-depth analysis of testing results
-- Redmine project tracker and wiki management
-- L2 support tasks; knowledge base articles; onboarding newcomers
-
-### **QA / Tech Support** at **City Information Center** *(Kharkiv)*
-*March 2016 – September 2016 (7 months)*
-
-Software/hardware setup, employee assistance, technical tasks, web interface prototyping, website testing, basic test cases, MediaWiki documentation.
-
-### **Tech Assistant** at **Kharkiv National University of Radioelectronics**
-*September 2014 – April 2016 (1 year 8 months)*
-
-Software and hardware install/setup; teacher assistance with hardware / software troubleshooting.
-
-### **Project Manager** at **Unio — service** *(freelance)*
-*October 2013 – August 2014 (11 months)*
-
-Web-dev team supervision, technical specifications, customer negotiations, design concepts with studio, reporting and business strategy; additional sales of gaming software.
+- **Unio — service** *(freelance)* — *Project Manager* (Oct 2013 – Aug 2014)  
+  Web-dev team supervision, technical specs, client negotiations, design concepts; gaming software sales.
 
 ## 🚀 Projects
 
