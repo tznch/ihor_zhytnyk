@@ -114,7 +114,7 @@ Performed full-cycle QA within a full-stack dev team for 3 projects:
 
 - Complex QA for web / desktop applications on a contract basis
 - Requirements testing and customer negotiations
-- Test automation with Robot Framework and Playwright
+- Test automation with Robot Framework and Playwright; ~70% of regression cases covered
 
 ### **Senior QA Engineer** at **Spryker Systems**
 *September 2021 – May 2023 (1 year 9 months)*
