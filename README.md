@@ -2,16 +2,9 @@ Hello, I'm 👨‍💻 **Ihor Zhytnyk** 👋
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=300&section=header&text=SDET&fontSize=60&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=10%2B%20Years%20QA%20%7C%20AI%20Testing%20%26%20Evaluation%20%7C%20Cross-Platform&descAlignY=51&descAlign=center" alt="Header">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=300&section=header&text=Senior%20QA%20Engineer&fontSize=56&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=SDET%20%7C%20AI%20Testing%20and%20Evaluation%20%7C%2010%2B%20Years%20Cross-Platform&descAlignY=52&descAlign=center" alt="Header">
 
-**SDET | AI testing and evaluation**
-
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F75C7E&center=true&vCenter=true&width=520&lines=SDET;AI+Testing+%26+LLM+Evaluation;Playwright+%2B+TypeScript;Cross-platform%3A+Web%2C+Mobile%2C+Desktop;DeepEval+%26+Promptfoo" alt="Typing SVG">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-ihor--zhytnyk-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ihor-zhytnyk/)
-[![Djinni](https://img.shields.io/badge/Djinni-profile-4859FF)](https://djinni.co/q/20f2d45209/)
-[![GitHub](https://img.shields.io/badge/GitHub-tznch-181717?logo=github&logoColor=white)](https://github.com/tznch)
-[![Location](https://img.shields.io/badge/Location-Vinnytsia%2C%20Ukraine%20·%20Remote-informational)](#-lets-connect)
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F75C7E&center=true&vCenter=true&width=480&lines=Playwright+%2B+TypeScript;Appium+%2B+Python;LLM+Eval+%28DeepEval%2C+Promptfoo%29;Cross-Platform+QA;Agentic+QA+Workflows" alt="Typing SVG">
 
 </div>
 
@@ -75,7 +68,7 @@ Comfortable owning the full QA cycle — from requirements analysis to release s
 ## 💼 Professional experience
 
 ### **Senior Test Automation Engineer — AI/LLM products** at **PrivatBank**
-*August 2026 – Present | Ukraine*
+*August 2026 – Present*
 
 ### **Senior General QA Engineer** at **Android / Automotive project**
 *December 2025 – July 2026 (8 months)*
@@ -110,7 +103,7 @@ Performed full-cycle QA within a full-stack dev team for 3 projects:
 - **Stack:** GitHub, Jenkins, Jira, Python, Android, iOS, macOS
 
 ### **Senior QA Engineer** at **NDA**
-*September 2023 – February 2024 (6 months) | Ukraine*
+*September 2023 – February 2024 (6 months)*
 
 - Complex QA for web / desktop applications on a contract basis
 - Requirements testing and customer negotiations
@@ -131,14 +124,14 @@ Performed full-cycle QA within a full-stack dev team for 3 projects:
 - Sub-lead: managed team regression progress and release greenlights
 
 ### **Senior QA Engineer** at **EPAM Systems**
-*April 2019 – December 2020 (1 year 9 months) | Kharkiv Region, Ukraine*
+*April 2019 – December 2020 (1 year 9 months)*
 
 - QA for the UI team: sprint testing, release regressions, design / requirements review
 - Built trust with internal and external stakeholders; successful detection of critical issues
 - Close cooperation across teams and customers to determine optimum test coverage
 
 ### **QA Engineer** at **AltexSoft**
-*May 2018 – April 2019 (1 year) | Kharkiv Region, Ukraine*
+*May 2018 – April 2019 (1 year)*
 
 Pawnbroker-domain desktop product with integration to an own web portal (eBay alternative):
 
@@ -155,10 +148,10 @@ Pawnbroker-domain desktop product with integration to an own web portal (eBay al
 - **CBA.pl** — *QA Engineer* (Sep 2016 – Jan 2017)  
   Hosting QA: test cases, result analysis, Redmine/wiki, L2 support, onboarding.
 
-- **City Information Center, Kharkiv** — *QA / Tech Support* (Mar – Sep 2016)  
+- **City Information Center** — *QA / Tech Support* (Mar – Sep 2016)  
   Web testing and prototyping, MediaWiki docs, software/hardware setup for staff.
 
-- **Kharkiv National University of Radioelectronics** — *Tech Assistant* (Sep 2014 – Apr 2016)  
+- **National University of Radioelectronics** — *Tech Assistant* (Sep 2014 – Apr 2016)  
   HW/SW install and troubleshooting support for faculty.
 
 - **Unio — service** *(freelance)* — *Project Manager* (Oct 2013 – Aug 2014)  
@@ -184,7 +177,7 @@ Angular app + REST API + Swagger sandbox for testing with AI agents.
 ## 🎓 Education & certifications
 
 ### Education
-**Kharkiv National University of Radioelectronics**  
+**National University of Radioelectronics**  
 *Master's degree, Project Management in Information Technology* | 2013 – 2019
 
 ### Certifications
@@ -195,7 +188,6 @@ Angular app + REST API + Swagger sandbox for testing with AI agents.
 
 ## 🌐 Languages
 - **English** — Full Professional (EF SET C1 Advanced)
-- **Ukrainian** — Native
 
 ## 🎯 Interests
 - **AI for QA:** LLM eval, Claude Code, Playwright agents, Promptfoo / DeepEval
@@ -203,7 +195,7 @@ Angular app + REST API + Swagger sandbox for testing with AI agents.
 
 ## 🤝 Volunteer work
 **Fundraiser / funding support** | *March 2022 – Present*  
-Donations, support, and fundraisers for the Armed Forces of Ukraine
+Donations, support, and fundraisers for defense-related initiatives
 
 ---
 
@@ -215,12 +207,6 @@ Donations, support, and fundraisers for the Armed Forces of Ukraine
 
 <p>
 <a href="https://www.linkedin.com/in/ihor-zhytnyk/" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" /></a>
-<a href="https://github.com/tznch" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="GitHub" height="30" width="40" /></a>
 </p>
-
-📧 **Email:** [qippest@gmail.com](mailto:qippest@gmail.com)  
-🔗 **GitHub CV:** [github.com/tznch/ihor_zhytnyk](https://github.com/tznch/ihor_zhytnyk)  
-🔗 **Djinni:** [djinni.co/q/20f2d45209](https://djinni.co/q/20f2d45209/)  
-📍 **Location:** Vinnytsia, Vinnytsia, Ukraine · Remote
 
 </div>
